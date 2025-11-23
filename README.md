@@ -14,7 +14,7 @@
 
 ### 🛠️ My Recent Projects  
 - **Nestify** — A modern Airbnb-style property booking platform  
-- **OTP Login System** — Secure backend authentication flow (Node + MongoDB)
+
 
 ---
 
